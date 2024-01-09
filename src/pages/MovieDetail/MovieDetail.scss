@@ -1,0 +1,28 @@
+@media (max-width: 639px){
+    .movie_info{
+        flex-direction: column;
+        .left{
+            width: 100%;
+        }
+    
+        .right{
+            width: 100%;
+        }
+    }
+
+    .cum_rap_time{
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        .cum_rap_item{
+            margin-top: 10px;
+        }
+    }
+
+    .relative_movie_items{
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        .item{
+            margin-top: 20px;
+        }
+    }
+
+    
+}

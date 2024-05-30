@@ -1,6 +1,6 @@
 # Link ytb và deloy vercel:
-Deloy: https://bcs-09-capstone-movie-long-sang-8i7n.vercel.app/
-Ytb: https://youtu.be/vKBCsW-15QE
+-Deloy: https://bcs-09-capstone-movie-long-sang-8i7n.vercel.app/ <br/>
+-Ytb: https://youtu.be/vKBCsW-15QE
 # Các thư viện cần cài đặt khi bắt đầu:
 
 - react-router-dom (V6)
